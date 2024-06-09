@@ -41,6 +41,11 @@ The dataset used in this project includes various economic indicators such as:
 - Total Number of Households : [link](https://fred.stlouisfed.org/series/TTLHH)
 - Government Subsidy : [link](https://fred.stlouisfed.org/series/L312051A027NBEA)
 
+## Do checkout the Kaggle Notebooks and Datasets:
+- Data Preparation and Preprocessing [Notebook](https://www.kaggle.com/code/prolevelnoob/data-preprocessing)
+- Individual data collected from public sources [Dataset](https://www.kaggle.com/datasets/prolevelnoob/usa-home-data)
+- Final Combined Dataset [Dataset](https://www.kaggle.com/datasets/prolevelnoob/us-home-price-analysis)
+- Data Analysis and Prediction Notebook [Notebook](https://www.kaggle.com/code/prolevelnoob/data-analysis)
 
 ## Model Evaluation
 
