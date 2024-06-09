@@ -118,6 +118,6 @@ The decomposition shows an upward trend in home prices, regular seasonal pattern
 
 The heatmap indicates strong positive correlations between home prices, GDP per capita, CPI, and urban population. Negative correlations include the inverse relationship between the unemployment rate and employment rate.
 
-
+## for detailed analysis please checkout the analysis-report.pdf file in the repository
 ---
 
